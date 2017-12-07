@@ -1,0 +1,229 @@
+*{
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    margin: 50px;
+}
+.logo {
+}
+.images{
+    padding: 21px;
+    width: 20%;
+}
+.images img{width: 150px;}
+.logo nav{height: 100px;position: absolute;width: 80%;}
+.logo nav ul{text-align: center;}
+.logo nav ul li{padding: 40px;display: inline-block;position: static;}
+.logo nav ul li a{text-decoration: none;text-transform: uppercase;display: block;color: black;}
+.logo nav ul li a:hover{
+    border-radius: 20px;
+    padding: 9px;
+    background: #dd4b2b;
+    transition: 1s;
+}
+.container {background: url(../images/Panakeia.gif);background-repeat: no-repeat;background-size: cover;height: 50pc;}
+
+.head {
+}
+.head h1{
+    color: black;
+}
+.head p{}
+
+.content {
+}
+
+.one {
+}
+.one img{width: 100px;}
+.one h1{
+}
+.one p{
+}
+.two {
+}
+.two img{width: 100px;}
+.two h1{
+}
+.two p{
+}
+.three {
+}
+.three img{width: 100px;}
+.three h1{
+}
+.three p{}
+.content button{position: absolute;top: 117%;color: #252119;text-transform: capitalize;width: 9%;border-radius: 20px;background: white;padding: 10px;left: 50%;transform: translate(-50%,-50%);}
+
+.white {
+}
+.white h1{color: black;text-align: center;text-transform: capitalize;padding: 29px;font-size: 35px;}
+.img {
+}
+
+.a1 {
+}
+.a1 img {
+}
+.a1 h1{
+}
+.a1 p{padding: 13px;}
+.a1 button{border-radius: 20px;padding: 10px;text-transform: capitalize;width: 25%;background: white;}
+
+.a2 {
+}
+.a2 img {
+}
+.a2 h1{
+}
+.a2 p{padding: 13px;color: black;}
+.a2 button{border-radius: 28px;padding: 10px;background: white;width: 25%;text-transform: capitalize;}
+.a3 {
+}
+.a3 img {
+}
+.a3 h1{
+}
+.a3 p{color: black;padding: 13px;}
+.a3 button{padding: 10px;background: white;border-radius: 26px;text-transform: capitalize;width: 25%;}
+
+.news {background: url(../images/Panakeia_template-Symu_co.gif);background-repeat: no-repeat;background-size: cover;}
+.news h1{padding: 18px;color: white;text-transform: uppercase;font-size: 39px;}
+.news p {color: #ffffff;text-align: center;width: 50%;margin-left: 23pc;padding: 16px;}
+.news input{padding: 15px;background: transparent;width: 25%;border-radius: 28px;}
+.news button{text-transform: capitalize;padding: 16px;position: absolute;width: 11%;background: white;border-radius: 30px;right: 35pc;color: #be8549;}
+.white{}
+.w1 {
+}
+.w1 h2{text-transform: capitalize;font-size: 36px;}
+
+.w1 p{padding: 20px;}
+.w1 button{padding: 9px;color: white;background: #dd4b2b;width: 25%;border-radius: 20px;text-transform: capitalize;}
+.w2 {
+}
+.w2 img{padding: 20px;}
+.w3 {
+}
+.w3 img{}
+.w4 {
+}
+.w4 h1{
+}
+.w4 p {padding: 25px;}
+.w4 button{background: #4b4e73;padding: 10px;color: white;width: 25%;border-radius: 20px;text-transform: capitalize;}
+
+.orange {
+}
+.a1{}
+.a1 li{
+    color: white;
+    display: block;
+}
+.a2{}
+.a2 li{
+    display: block;
+}
+.a3{}
+.a3 li{
+    display: block;
+}
+.burger {
+}
+
+.logo {
+}
+
+.container {}
+
+.head {
+}
+
+.content {
+}
+
+.one {
+}
+
+.two {
+}
+
+.three {
+}
+
+.white {
+}
+
+.img {
+}
+
+.a1 {text-align: center;width: 33.33%;float: left;}
+
+.a2 {text-align: center;color: white;width: 33.33%;float: left;}
+
+.a3 {width: 33.33%;color: white;float: left;text-align: center;}
+
+.news {text-align: center;height: 15pc;}
+
+.w1 {width: 50%;float: left;text-align: center;padding: 16px;}
+
+.w2 {text-align: center;width: 50%;float: left;}
+
+.w3 {text-align: center;width: 50%;float: left;}
+
+.w4 {padding: 20px;width: 50%;float: left;text-align: center;}
+
+.orange {
+}
+
+.burger {
+}
+
+.logo {display: -webkit-box;position: static;background: #edeff1;}
+
+.container {}
+
+.head {
+    text-align: center;
+    color: aliceblue;
+    padding: 180px;
+    font-size: 30px;
+}
+
+.content {
+    height: 16em;
+}
+
+.one {width: 33.33%;float: left;text-align: center;color: aliceblue;}
+
+.two {width: 33.33%;float: left;text-align: center;color: aliceblue;}
+
+.three {width: 33.33%;float: left;text-align: center;color: aliceblue;}
+
+.white {
+    height: 36pc;
+    background: #edeff1;
+}
+
+.img {background: #edeff1;height: 30pc;}
+.orange {
+    padding: 17px;
+    height: 10pc;
+    background: #d75d0e;
+}
+
+.burger {
+    background: url(../images/Panakeia_template-Symu_co.gif);
+    height: 10pc;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.burger p{
+    color: white;
+    text-align-last: center;
+    margin-left: 27pc;
+    width: 46%;
+    top: 50%;
+    padding: 61px;
+}
